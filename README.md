@@ -1,10 +1,10 @@
-# GQL Formattor And Clean Unnecessary Generated GQL Query String
+## GQL Formattor And Clean Unnecessary Generated GQL Query String
 
-## For Personal
+### For Personal
 
 ---
 
-### path key
+#### path key
 
     Path file: string
 
@@ -12,7 +12,7 @@
 
 ---
 
-### param key format
+#### param key format
 
     key: {
         gql document name : del key,
@@ -22,7 +22,7 @@
 
 ---
 
-### del key format
+#### del key format
 
     key: {
         del key : Unnecessary gql string,
@@ -32,7 +32,7 @@
 
 ---
 
-Emphasis, Example
+#### Example
 
     key: {
         CreateUserDocument: "user",
