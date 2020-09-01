@@ -1,0 +1,15 @@
+{
+  "name": "grqpqh_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node app"
+  },
+  "author": "naingmahar",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.13.0"
+  }
+}
